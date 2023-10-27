@@ -3,12 +3,13 @@ This repository contains a collection of Java exercises and projects that I work
 
 The exercises in this repository cover a variety of topics, including:
 
-** Fundamentals **
+**Fundamentals**
 * Java syntax
 * Data types
 * Statements
 * Control flow
-** Object-oriented programming **
+
+**Object-oriented programming**
 * Classes
 * Objects
 * Inheritance
